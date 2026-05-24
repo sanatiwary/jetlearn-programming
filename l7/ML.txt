@@ -1,0 +1,24 @@
+1) What is Machine Learning ?
+
+2) Applications of Machine Learning in real world
+
+3) Types of Machine Learning - 
+    a) Supervised Learning 
+    b) Unsupervised Learning
+    c) Reinforcement Learning
+    
+
+4) Types of Machine Learning Problems - 
+    a) Regeression 
+    b) Classification
+    c) Recommendation
+    
+
+5) Steps to be followed in a Machine Leanring Project - 
+    a) Gathering the data and load the data into the program
+    b) Data Preprocessing - prepare the data for further machine learning projects
+    c) Data Analysis - Analyse the data so that you can define your input and output columns and drop the rest
+    d) Define Input and Output - Create separate dataframes for input - output 
+    e) Perform the test-train split - Split up the data into testing and training data , Explain the use of training and testing data
+    f) Select the machine learning algorithm perform the training of the model.
+    g) Perform predictions and compare the predictions with actual result to calculate accuracy.
